@@ -1,7 +1,5 @@
 # Instagram Filters CSS
 
-![Instagram Filters CSS](https://github.com/nickpratt23/instagram-filters-css/blob/main/preview.png)
-
 Instagram Filters CSS is a simple project that allows you to compare Instagram-like photo filters using pure CSS. With this project, you can easily visualize how different Instagram-style filters can transform your images.
 
 ## Live Demo
